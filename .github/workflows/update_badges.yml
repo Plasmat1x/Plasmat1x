@@ -2,8 +2,8 @@ name: Update badges
 
 on:
   schedule:
-    # Runs at 7am UTC every day
-    - cron: "0 13 * * *"
+    # Runs at 12am UTC
+    - cron: "0 12 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -11,5 +11,11 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        with: 
-          CREDLY_USER: <username_credly>
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: plasmat1x/plasmat1x # optional, By default, it will automatically use the repository who's executing the workflow.
+          COMMIT_MESSAGE: "Update readme badges" # optional
+          CREDLY_USER: plasmat1x # optional, but default will use the same from github
+          CREDLY_SORT: RECENT #or POPULAR # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
+          BADGE_SIZE: 110x110 # optional, 110x110 default
+          NUMBER_LAST_BADGES: 16 # optional, will show the 48 in the first page
