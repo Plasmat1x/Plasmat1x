@@ -1,10 +1,34 @@
-# GithubProfile
+# 👨‍💻Plasmat1x🎮
 
-For Github profile 🍌
+Currently i'm try write own Graphics module for sfml 2.5.1 with 3D, styled as SFML. Also in plans write vulkan and DirectX render.
+Dream of getting into Gamedev and work with virtual world and contribute to them.
+I don't use any engines, cause for using need asset but i'm not artist for drawing self asset and make any resources, so I chose to reinvent the wheel 🥴
 
-* C++ 14+ standards
-* SFML 2.5+
-* OpenGL 3.3+ specification
+## Use
+
+* C++17
+* SFML 2.5.1
+* OpenGL 4.0
+
+## Academic curriculum
+
+* C#
+* .NET
+* ADO .NET
+* T-SQL
+* WPF
+* EntityFramework
+
+## Self learning
+
+* C/++ with lua scripts
+* CMake, Project setuping and other tools for development
+* UML
+* Software Engineering
+* UI making
+* Development in Linux 🐧
+* Game and Engines Architectures
+* Patterns and principes
 
 ---
 
