@@ -15,7 +15,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          #GH_TOKEN: ${{ secrets.MY_TOKEN }}
+          #GH_TOKEN: ${{ secrets.token }}
           #REPOSITORY: Plasmat1x/Plasmat1x
           COMMIT_MESSAGE: "Update readme badges"
           CREDLY_USER: plasmat1x
