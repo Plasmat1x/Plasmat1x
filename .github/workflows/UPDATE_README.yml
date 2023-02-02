@@ -15,9 +15,9 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          #GH_TOKEN: ${{ secrets.token }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           #REPOSITORY: Plasmat1x/Plasmat1x
-          COMMIT_MESSAGE: "Update readme badges"
+          #COMMIT_MESSAGE: "Update readme badges"
           CREDLY_USER: plasmat1x
           #CREDLY_SORT: RECENT
           #BADGE_SIZE: 110x110
