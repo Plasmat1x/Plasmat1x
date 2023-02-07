@@ -21,7 +21,7 @@ I don't use any engines, cause for using need asset but i'm not artist for drawi
 
 ## Self learning
 
-* C/++ with lua scripts
+* C++ with lua scripts
 * CMake, Project setuping and other tools for development
 * UML
 * Software Engineering
