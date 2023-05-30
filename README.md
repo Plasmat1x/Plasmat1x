@@ -1,8 +1,8 @@
-# 👨‍💻Plasmat1x🎮
+# Plasmat1x
 
 Currently i'm try write own Graphics module for sfml 2.5.1 with 3D, styled as SFML. Also in plans write vulkan and DirectX render.
 Dream of getting into Gamedev and work with virtual world and contribute to them.
-I don't use any engines, cause for using need asset but i'm not artist for drawing self asset and make any resources, so I chose to reinvent the wheel 🥴
+I don't use any engines, cause for using need asset but i'm not artist for drawing self asset and make any resources, so I chose to reinvent the wheel
 
 ## Use
 
