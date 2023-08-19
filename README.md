@@ -1,36 +1,48 @@
 # 👨‍💻Plasmat1x🎮
 
-Currently i'm try write own Graphics module for sfml 2.5.1 with 3D, styled as SFML. Also in plans write vulkan and DirectX render.
-Dream of getting into Gamedev and work with virtual world and contribute to them.
-I don't use any engines, cause for using need asset but i'm not artist for drawing self asset and make any resources, so I chose to reinvent the wheel 🥴
+Разработчик. Начал обучение программированию в технаре с Pascal, Delphi и СУБД FoxPro. Обучался системному администрированию ЛВС.
+Пробовал программировать на Python 3.x.
+После поступления в ВУЗ начал изучать C/C++.
+Во время получения дополнительного образования изучил C#, .NET 7, ASP.NET Core, SQL, СУБД MSSQL, WPF, WinForms, Многопоточность и сетевое программирование.
 
-## Use
+Мечта: область геймдева.
+Реальность: beckend разработка.
+
+Интересуюсь разработкой и проработкой архитектуры приложений.
+Не люблю рутину и задачи разряда ВУЗ'а для проверки усвоенной темы.
+Ненавижу плохую либо отсутсвующую документацию
+
+## Skills
+
+### `C++`
 
 * C++17
 * SFML 2.5.1
-* OpenGL 4.0
-
-## Academic curriculum
-
-* C#
-* .NET
-* ADO .NET
-* T-SQL
-* WPF
-* EntityFramework
-
-## Self learning
-
-* C++ with lua scripts
-* CMake, Project setuping and other tools for development
-* UML
-* Software Engineering
-* UI making
-* Development in Linux 🐧
-* Game and Engines Architectures
-* Patterns and principes
+* OpenGL 3.3+
+* STL
+* CMake
+* Drear ImGui
 
 ---
+
+### `C#`
+
+* .NET 7
+* EntityFrameworkCore
+* MSSQL
+* WPF, WinForms
+* ASP.NET Core
+* Multithreading
+* Asynchronus
+* LINQ
+* Sockets
+
+---
+
+### Other
+
+* UML
+* SQL
 
 ## Badges
 
