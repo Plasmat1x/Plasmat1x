@@ -29,7 +29,6 @@
 
 * .NET 7
 * EntityFrameworkCore
-* MSSQL
 * WPF, WinForms
 * ASP.NET Core
 * Multithreading
@@ -43,6 +42,7 @@
 
 * UML
 * SQL
+* MSSQL
 
 ## Badges
 
