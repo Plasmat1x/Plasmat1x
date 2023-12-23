@@ -16,27 +16,35 @@
 
 ## Skills
 
-### `C++`
+<details>
+  <summary>C++</summary>
+  
+   ### `C++`
 
-* C++17
-* SFML 2.5.1
-* OpenGL 3.3+
-* STL
-* CMake
-* Drear ImGui
+   * C++17
+   * SFML 2.5.1
+   * OpenGL 3.3+
+   * STL
+   * CMake
+   * Drear ImGui
+</details>
+
+
 
 ---
 
 ### `C#`
 
-* .NET 7
+* .NET 7/8
 * EntityFrameworkCore
 * WPF, WinForms
-* ASP.NET Core
+* ASP.NET Core (включая MVC)
 * Multithreading
 * Asynchronus
 * LINQ
 * Sockets
+* Identity
+* Razorpages
 
 ---
 
@@ -45,6 +53,9 @@
 * UML
 * SQL
 * MSSQL
+* JavaScript
+* html + css
+* Godot(.NET)
 
 ## Badges
 
