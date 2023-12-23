@@ -18,9 +18,6 @@
 
 <details>
   <summary>C++</summary>
-  
-   ### `C++`
-
    * C++17
    * SFML 2.5.1
    * OpenGL 3.3+
@@ -29,12 +26,8 @@
    * Drear ImGui
 </details>
 
-
-
----
-
-### `C#`
-
+<details>
+    <summary>C#</summary>
 * .NET 7/8
 * EntityFrameworkCore
 * WPF, WinForms
@@ -45,17 +38,17 @@
 * Sockets
 * Identity
 * Razorpages
+</details>
 
----
-
-### Other
-
+<details>
+    <summary>Other</summary>
 * UML
 * SQL
 * MSSQL
 * JavaScript
 * html + css
 * Godot(.NET)
+</details>
 
 ## Badges
 
