@@ -60,6 +60,7 @@
 * Git
 * React
 * Angular
+* Unit-test (MSTest)
 
 </details>
 
