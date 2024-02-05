@@ -44,6 +44,30 @@
 * Identity
 * Razorpages
 * Blazor
+* Unit-test (MSTest, xUnit)
+
+</details>
+
+<details>
+    <summary>show Frontend</summary>
+
+* JavaScript
+* TypeScript
+* html
+* css
+* React
+* Angular
+* Node.js
+
+</details>
+
+
+<details>
+    <summary>show Database</summary>
+
+* SQL
+* MSSQL
+* ~~PostgreSQL~~
 
 </details>
 
@@ -51,16 +75,13 @@
     <summary>show Other</summary>
 
 * UML
-* SQL
-* MSSQL
-* JavaScript
-* html
-* css
 * Godot(.NET)
 * Git
-* React
-* Angular
-* Unit-test (MSTest)
+* SOLID
+* OOP
+* KISS
+* YAGNI
+* DRY
 
 </details>
 
