@@ -26,6 +26,8 @@
 * STL
 * CMake
 * Drear ImGui
+* DirectX 12
+* VulkanAPI
 
 </details>
 
@@ -37,14 +39,14 @@
 * WPF
 * WinForms
 * ASP.NET Core
-* Multithreading
-* Asynchronus
+* Async/await
 * LINQ
-* Sockets
 * Identity
 * Razorpages
 * Blazor
 * Unit-test (MSTest, xUnit)
+* Silk.NET
+* Rx.NET
 
 </details>
 
@@ -82,6 +84,8 @@
 * KISS
 * YAGNI
 * DRY
+* Sockets
+* Multithreading
 
 </details>
 
