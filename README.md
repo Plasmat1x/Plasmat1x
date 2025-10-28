@@ -1,5 +1,8 @@
+![banner](./Media/banner.jpg)
+
 # Plasmat1x
 
+Graphic engineer, backend developer. 
 
 ## Badges
 
