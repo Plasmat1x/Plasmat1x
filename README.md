@@ -1,4 +1,4 @@
-![banner](./Media/banner.jpg)
+![banner](./Media/banner.png)
 
 # Plasmat1x
 
